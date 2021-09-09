@@ -1,1 +1,1 @@
-# Data-Epilepsy_SZONF-and-targetS_Z_O_N_F.ipynb
+Epileptic Seizure Detection by using PCA
